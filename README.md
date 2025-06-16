@@ -18,7 +18,7 @@ More on that in our [blogpost](todo).
 1. Install the [Pico SDK](https://github.com/raspberrypi/pico-sdk)
 1. Build the project.
 ```bash
-git clone https://github.com/ttdennis/pico-uart-hci.git
+git clone https://github.com/auracast-research/pico-uart-hci.git
 cd pico-uart-hci
 mkdir build
 cd build
